@@ -81,3 +81,17 @@ align-items:center ;
 .cont-val{
     margin: 56% 24%;
 }
+@media screen and (min-width:740px) {
+
+    .cont-val{
+        margin: 10% 24%;
+    }
+    #value{
+        color: #1f1e1e;
+     margin: 20px;
+        font-size: 30px;
+      font-weight: bold;
+    display: flex;
+    justify-content: start;
+    }
+}
